@@ -1,5 +1,10 @@
 # Banijay TV Show Ratings Forecasting Project
 
+## Author
+- Created by: Fedor Chursin
+- Contact: fedorchursinsk@gmail.com
+- GitHub: fchursin
+
 ## Project Overview
 
 As a student, I had the opportunity to collaborate with Banijay, a leading global content creator and distributor of television and multimedia programming. Banijay is known for producing a wide range of popular television shows and content. They approached me to help analyze their data and develop a ratings forecasting model for their shows based on various factors such as time, cast, season, and more.
